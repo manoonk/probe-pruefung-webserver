@@ -11,3 +11,24 @@ body {
 .shadow {
     box-shadow: 0px 2px 5px 2px darkgrey;
 }
+.navbar{
+    width:10%;
+    text-align: center;
+    margin: 50px;
+    display: inline-block;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+#content{
+    display:inline-block;
+}
+h1 {
+    margin: 50px;
+    border-left:50px;
+    font-family: sans-serif;
+    text-align: center;
+    width:1000px;
+    margin-top:50px;
+    margin-bottom:50px;
+}
+ 
